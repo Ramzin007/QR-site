@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+;p{
+    font-size: 15px;
+}
+
+.outfit-cardtitle> {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
